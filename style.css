@@ -1,0 +1,14 @@
+  
+        .hello{
+            color: blue; font-size: 30px; font-family: cursive;
+        }
+   .hi{
+     color: chartreuse; background-color: cornflowerblue;
+    text-align: center; width: 50%; border: 5px solid pink;
+    height: 300px;padding-top: 200px;}
+.good{
+  
+            margin: 100px;
+            width: 200px;
+            height: 200px;
+        } 
